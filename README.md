@@ -1,16 +1,23 @@
-# Steven Zeitter
+# Steven Zeitter / DJ Jetski
 
-I build practical tooling for macOS automation, Codex workflows, and release-ready open source systems.
+I make music as DJ Jetski and build practical tooling around macOS automation, Codex workflows, Ableton Live, and Max for Live.
 
-My current focus is native Computer Use reliability for OpenAI Codex on macOS: installers, repair scripts, verification tools, and security-conscious release hygiene for local developer machines.
+My current open source focus is native Computer Use reliability for OpenAI Codex on macOS: installers, repair scripts, verification tools, and security-conscious release hygiene for local developer machines.
 
-## Current Focus
+## What I am working on
 
 - Native macOS automation that stays inside clear owner boundaries
 - Codex workflow tooling with reproducible diagnostics and rollback paths
+- Ableton Live and Max for Live tools, experiments, and workflow helpers
 - Open source release readiness, documentation, and security checks
 
-## Projects
+## Music
+
+I release and perform music as DJ Jetski. Follow the project on Instagram:
+
+[instagram.com/djjetski_wav](https://www.instagram.com/djjetski_wav)
+
+## Open Source
 
 - Codex Computer Use Foundation: repair and validation kit for native Codex Computer Use on macOS. Public release in progress.
 
