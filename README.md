@@ -10,13 +10,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.sowasvon.de"><strong>Website</strong></a>
-  &nbsp;&nbsp;/&nbsp;&nbsp;
-  <a href="https://www.instagram.com/djjetski_wav"><strong>Instagram</strong></a>
-  &nbsp;&nbsp;/&nbsp;&nbsp;
-  <a href="https://github.com/sponsors/DJJetski"><strong>Sponsor</strong></a>
-  &nbsp;&nbsp;/&nbsp;&nbsp;
-  <a href="https://github.com/DJJetski/codex-computer-use-foundation"><strong>First Release</strong></a>
+  <a href="https://www.sowasvon.de"><img src="assets/badge-website.svg" alt="Website: sowasvon.de" width="176" height="44" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/djjetski_wav"><img src="assets/badge-instagram.svg" alt="Instagram: djjetski_wav" width="176" height="44" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/sponsors/DJJetski"><img src="assets/badge-sponsor.svg" alt="Sponsor DJJetski on GitHub" width="176" height="44" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/DJJetski/codex-computer-use-foundation"><img src="assets/badge-release.svg" alt="First Release: Codex Computer Use Foundation" width="176" height="44" /></a>
 </p>
 
 <p align="center">
