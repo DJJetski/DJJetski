@@ -1,98 +1,51 @@
 <p align="center">
-  <img src="assets/profile-header.svg" alt="Steven Zeitter / DJ Jetski - Ableton, Max for Live, macOS automation, and Codex tooling." width="100%" />
+  <img src="assets/profile-header.svg" alt="Steven Zeitter / DJ Jetski - Ableton, Max for Live, macOS automation, and Codex tooling." width="1200" height="420" />
 </p>
 
 <h1 align="center">Steven Zeitter / DJ Jetski</h1>
 
 <p align="center">
-  <strong>Music first. Tools when the workflow needs them.</strong><br />
-  I build practical systems around Ableton Live, Max for Live, macOS automation, and OpenAI Codex.
+  <strong>Music first. Practical tools when the workflow needs them.</strong><br />
+  Ableton Live, Max for Live, macOS automation, and OpenAI Codex systems.
 </p>
 
 <p align="center">
-  <a href="https://www.sowasvon.de">
-    <img alt="Website" src="https://img.shields.io/badge/Website-sowasvon.de-101820?style=for-the-badge&labelColor=0B0F12" />
-  </a>
-  <a href="https://www.instagram.com/djjetski_wav">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-djjetski__wav-101820?style=for-the-badge&logo=instagram&logoColor=FF5C8A&labelColor=0B0F12" />
-  </a>
-  <a href="https://github.com/sponsors/DJJetski">
-    <img alt="GitHub Sponsors" src="https://img.shields.io/badge/Sponsor-DJJetski-101820?style=for-the-badge&logo=githubsponsors&logoColor=F6C766&labelColor=0B0F12" />
-  </a>
+  <a href="https://www.sowasvon.de"><strong>Website</strong></a>
+  &nbsp;&nbsp;/&nbsp;&nbsp;
+  <a href="https://www.instagram.com/djjetski_wav"><strong>Instagram</strong></a>
+  &nbsp;&nbsp;/&nbsp;&nbsp;
+  <a href="https://github.com/sponsors/DJJetski"><strong>Sponsor</strong></a>
+  &nbsp;&nbsp;/&nbsp;&nbsp;
+  <a href="https://github.com/DJJetski/codex-computer-use-foundation"><strong>First Release</strong></a>
 </p>
 
----
+<p align="center">
+  <img src="assets/profile-overview.svg" alt="Current work: Ableton and Max for Live tools, Codex agent tooling, secure local automation, the first public release, and roadmap projects." width="1200" height="720" />
+</p>
 
-## Current Focus
+## First Public Release
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <strong>Music Systems</strong><br /><br />
-      Ableton Live workflow tools, Max for Live devices, controller fixes, and oscilloscope music experiments.
-    </td>
-    <td align="center" width="33%">
-      <strong>Codex Tooling</strong><br /><br />
-      Repair kits, guard scripts, skills, and local agent workflows for practical OpenAI Codex use.
-    </td>
-    <td align="center" width="33%">
-      <strong>Local Automation</strong><br /><br />
-      macOS utilities with clear owner boundaries, recovery paths, and security-minded defaults.
-    </td>
-  </tr>
-</table>
+[Codex Computer Use Foundation](https://github.com/DJJetski/codex-computer-use-foundation) is a repair and validation kit for native OpenAI Codex Computer Use on macOS.
 
-## Public Release
-
-<table>
-  <tr>
-    <td width="62%">
-      <a href="https://github.com/DJJetski/codex-computer-use-foundation"><strong>Codex Computer Use Foundation</strong></a><br />
-      A repair and validation kit for native OpenAI Codex Computer Use on macOS.
-    </td>
-    <td align="center" width="38%">
-      <strong>First public release</strong><br />
-      Installer, guard, launcher, smoke checks, and release hygiene.
-    </td>
-  </tr>
-</table>
-
-I keep public work intentionally curated: projects go public when setup, documentation, security boundaries, and a usable release path are clear.
+- Native launcher and guard repair path for local Codex Computer Use.
+- Smoke checks, release audit scripts, and documented recovery boundaries.
+- A practical first release before the larger music-tooling roadmap opens up.
 
 ## Roadmap
 
-| Area | What is coming |
-| --- | --- |
-| Live Project Manager | A local macOS app for organizing Ableton projects, tracks, versions, and production libraries. |
-| Max for Live | Device ideas, Ableton-focused skill packs, and repeatable build/validation workflows. |
-| Ableton setup tools | APC40 MkII fixes, MIDI startup guards, audio-interface helpers, and studio workflow automation. |
-| Oscilloscope music | Visual-music experiments and tools that connect sound design, scopes, and live performance. |
+Public work here is intentionally curated. Projects go public when setup, documentation, security boundaries, and a usable release path are clear.
 
-## Working Principles
+- **Live Project Manager**: macOS software for organizing Ableton projects, tracks, versions, and production libraries.
+- **Max for Live / Ableton Skills**: device ideas, production helpers, validation workflows, and skill packs for music tooling.
+- **Studio Automation**: APC40 MkII fixes, MIDI startup guards, audio-interface helpers, and local workflow glue.
+- **Oscilloscope Music**: sound-design and visual-music tools for scope-based performance experiments.
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <strong>Practical</strong><br /><br />
-      Built for real music-production friction, not demo-only polish.
-    </td>
-    <td align="center" width="33%">
-      <strong>Verifiable</strong><br /><br />
-      Setup, checks, recovery steps, and limitations should be visible.
-    </td>
-    <td align="center" width="33%">
-      <strong>Security-Minded</strong><br /><br />
-      Local automation should keep account, permission, and ownership boundaries explicit.
-    </td>
-  </tr>
-</table>
+## Working Style
+
+Most tools here start as side-projects for my own music-production workflow. When something becomes useful, clean, and documented enough, I publish it for free.
+
+Security matters because local automation touches real accounts, permissions, and files. Setup steps, recovery paths, and limitations should be visible instead of hidden behind a polished demo.
 
 ## Music
 
-Music is the main project. I release primarily as DJ Jetski, with Steven Maff as a second artist lane, and I have been working around Ableton since the earliest Live era.
-
-Most tools here start as side-projects for my own production workflow. If they become useful, clean, and documented enough, I publish them.
-
-## Sponsorship
-
-Sponsorship is appreciated if my work saves you time or helps your setup. It is voluntary support, not a support contract, maintenance promise, or priority-response channel.
+Music is the center. I release primarily as DJ Jetski, with Steven Maff as a second artist lane, and I have worked with Ableton since the early Live era.

@@ -1,0 +1,94 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Current Work Overview</title>
+  <desc id="desc">A symmetric overview of Ableton systems, Codex agent tooling, secure automation, the first public release, and the upcoming roadmap.</desc>
+
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1200" y2="720" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#090D10"/>
+      <stop offset="1" stop-color="#0C1216"/>
+    </linearGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="18" stdDeviation="28" flood-color="#000000" flood-opacity="0.32"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="720" rx="34" fill="url(#panel)"/>
+  <rect x="1" y="1" width="1198" height="718" rx="33" stroke="#2A3440" stroke-width="2"/>
+
+  <g opacity="0.28" stroke="#26333C" stroke-width="1">
+    <path d="M80 84H1120M80 232H1120M80 380H1120M80 528H1120M80 676H1120"/>
+    <path d="M120 48V672M300 48V672M480 48V672M660 48V672M840 48V672M1020 48V672"/>
+  </g>
+
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+    <text x="600" y="64" text-anchor="middle" fill="#F6F8FB" font-size="28" font-weight="800">What I Build</text>
+    <text x="600" y="96" text-anchor="middle" fill="#9BAAB5" font-size="17" font-weight="600">music-production systems, local automation, and practical agent tooling</text>
+  </g>
+
+  <g filter="url(#soft)" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+    <g transform="translate(70 130)">
+      <rect width="340" height="176" rx="24" fill="#0E1519" stroke="#32404A" stroke-width="1.5"/>
+      <rect x="28" y="28" width="284" height="4" rx="2" fill="#75F4D4"/>
+      <text x="170" y="70" text-anchor="middle" fill="#F6F8FB" font-size="22" font-weight="800">Ableton Systems</text>
+      <text x="170" y="104" text-anchor="middle" fill="#B7C4CC" font-size="16" font-weight="600">Live workflow tools</text>
+      <text x="170" y="130" text-anchor="middle" fill="#B7C4CC" font-size="16" font-weight="600">Max for Live devices</text>
+      <text x="170" y="156" text-anchor="middle" fill="#B7C4CC" font-size="16" font-weight="600">controller repairs</text>
+    </g>
+
+    <g transform="translate(430 130)">
+      <rect width="340" height="176" rx="24" fill="#0E1519" stroke="#32404A" stroke-width="1.5"/>
+      <rect x="28" y="28" width="284" height="4" rx="2" fill="#F6C766"/>
+      <text x="170" y="70" text-anchor="middle" fill="#F6F8FB" font-size="22" font-weight="800">Agent Tooling</text>
+      <text x="170" y="104" text-anchor="middle" fill="#B7C4CC" font-size="16" font-weight="600">Codex skills</text>
+      <text x="170" y="130" text-anchor="middle" fill="#B7C4CC" font-size="16" font-weight="600">guard scripts</text>
+      <text x="170" y="156" text-anchor="middle" fill="#B7C4CC" font-size="16" font-weight="600">release checks</text>
+    </g>
+
+    <g transform="translate(790 130)">
+      <rect width="340" height="176" rx="24" fill="#0E1519" stroke="#32404A" stroke-width="1.5"/>
+      <rect x="28" y="28" width="284" height="4" rx="2" fill="#FF5C8A"/>
+      <text x="170" y="70" text-anchor="middle" fill="#F6F8FB" font-size="22" font-weight="800">Secure Automation</text>
+      <text x="170" y="104" text-anchor="middle" fill="#B7C4CC" font-size="16" font-weight="600">local ownership</text>
+      <text x="170" y="130" text-anchor="middle" fill="#B7C4CC" font-size="16" font-weight="600">clear permissions</text>
+      <text x="170" y="156" text-anchor="middle" fill="#B7C4CC" font-size="16" font-weight="600">visible recovery</text>
+    </g>
+  </g>
+
+  <g transform="translate(70 342)" filter="url(#soft)" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+    <rect width="1060" height="140" rx="26" fill="#0F171B" stroke="#34434D" stroke-width="1.5"/>
+    <path d="M36 70H226M834 70H1024" stroke="#2F3D46" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="252" cy="70" r="7" fill="#75F4D4"/>
+    <circle cx="808" cy="70" r="7" fill="#FF5C8A"/>
+    <text x="530" y="42" text-anchor="middle" fill="#F6C766" font-size="14" font-weight="800" letter-spacing="2">FIRST PUBLIC RELEASE</text>
+    <text x="530" y="75" text-anchor="middle" fill="#F6F8FB" font-size="30" font-weight="850">Codex Computer Use Foundation</text>
+    <text x="530" y="107" text-anchor="middle" fill="#B7C4CC" font-size="17" font-weight="600">native Computer Use repair kit for OpenAI Codex on macOS</text>
+  </g>
+
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+    <text x="600" y="535" text-anchor="middle" fill="#F6F8FB" font-size="24" font-weight="800">Roadmap</text>
+    <text x="600" y="565" text-anchor="middle" fill="#9BAAB5" font-size="16" font-weight="600">curated releases from the music-production workflow</text>
+  </g>
+
+  <g transform="translate(70 594)" filter="url(#soft)" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+    <g>
+      <rect width="250" height="76" rx="20" fill="#0E1519" stroke="#31404A" stroke-width="1.5"/>
+      <text x="125" y="33" text-anchor="middle" fill="#F6F8FB" font-size="17" font-weight="800">Live Project Manager</text>
+      <text x="125" y="56" text-anchor="middle" fill="#B7C4CC" font-size="13" font-weight="600">projects, tracks, libraries</text>
+    </g>
+    <g transform="translate(270 0)">
+      <rect width="250" height="76" rx="20" fill="#0E1519" stroke="#31404A" stroke-width="1.5"/>
+      <text x="125" y="33" text-anchor="middle" fill="#F6F8FB" font-size="17" font-weight="800">Max for Live Skills</text>
+      <text x="125" y="56" text-anchor="middle" fill="#B7C4CC" font-size="13" font-weight="600">devices and helpers</text>
+    </g>
+    <g transform="translate(540 0)">
+      <rect width="250" height="76" rx="20" fill="#0E1519" stroke="#31404A" stroke-width="1.5"/>
+      <text x="125" y="33" text-anchor="middle" fill="#F6F8FB" font-size="17" font-weight="800">APC40 / Setup Fixes</text>
+      <text x="125" y="56" text-anchor="middle" fill="#B7C4CC" font-size="13" font-weight="600">studio startup automation</text>
+    </g>
+    <g transform="translate(810 0)">
+      <rect width="250" height="76" rx="20" fill="#0E1519" stroke="#31404A" stroke-width="1.5"/>
+      <text x="125" y="33" text-anchor="middle" fill="#F6F8FB" font-size="17" font-weight="800">Oscilloscope Music</text>
+      <text x="125" y="56" text-anchor="middle" fill="#B7C4CC" font-size="13" font-weight="600">sound and visual tools</text>
+    </g>
+  </g>
+</svg>
