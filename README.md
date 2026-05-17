@@ -1,28 +1,40 @@
+![Steven Zeitter / DJ Jetski profile header](assets/profile-header.svg)
+
 # Steven Zeitter / DJ Jetski
 
-Music, macOS automation, Codex tooling, Ableton Live, and Max for Live.
+I build practical tools where music production, macOS automation, and developer workflows meet.
 
-[Instagram](https://www.instagram.com/djjetski_wav) · [GitHub Sponsors](https://github.com/sponsors/DJJetski)
+[![Instagram](https://img.shields.io/badge/Instagram-djjetski__wav-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/djjetski_wav) [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-DJJetski-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/DJJetski)
 
-I make music as DJ Jetski and build practical tooling around creative and developer workflows. My current technical focus is native Computer Use reliability for OpenAI Codex on macOS: installers, repair scripts, verification tools, and security-conscious release hygiene for local developer machines.
+## What I Work On
 
-## Now
+- Native Computer Use reliability for OpenAI Codex on macOS: installers, repair scripts, verification tooling, and release hygiene.
+- Ableton Live and Max for Live experiments for tighter creative workflows.
+- Local automation that keeps clear owner boundaries, practical recovery paths, and reproducible setup steps.
 
-- Preparing Codex Computer Use Foundation for a public GitHub release
-- Building macOS automation and Codex workflow tooling with clear owner boundaries
-- Exploring Ableton Live and Max for Live tools, experiments, and workflow helpers
-- Keeping public releases documented, reproducible, and security-aware
+## Current Focus
+
+| Area | What I am building | Status |
+| --- | --- | --- |
+| Codex tooling | Computer Use repair and validation kit for macOS developer machines | Public release in progress |
+| Music systems | Ableton Live / Max for Live workflow tools and sync experiments | Active exploration |
+| Automation | Local scripts and operator workflows for reliable day-to-day Mac control | Iterating |
+
+## Working Style
+
+- I prefer small tools that solve real workflow friction.
+- I document setup, verification, and recovery paths instead of leaving them implicit.
+- I treat security and account boundaries as part of the product, especially for local automation.
+
+## Public Work
+
+The best public work is being prepared for release. This profile will stay focused on a small set of polished repositories instead of a long list of half-finished experiments.
 
 ## Music
 
-I release and perform music as DJ Jetski. Follow the project here:
+I release and perform music as DJ Jetski.
 
 [instagram.com/djjetski_wav](https://www.instagram.com/djjetski_wav)
-
-## Open Source
-
-- Codex Computer Use Foundation: repair and validation kit for native Codex Computer Use on macOS. Public release in progress.
-- More Ableton, Max for Live, and creative workflow tools are in progress.
 
 ## Sponsorship
 
