@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/profile-header.svg" alt="Steven Zeitter / DJ Jetski - Ableton, Max for Live, macOS automation, and Codex tooling." width="1200" height="420" />
+  <img src="assets/profile-header.svg" alt="DJ Jetski - Ableton, Max for Live, macOS automation, and Codex tooling." width="1200" height="420" />
 </p>
 
-<h1 align="center">Steven Zeitter / DJ Jetski</h1>
+<h1 align="center">DJ Jetski</h1>
 
 <p align="center">
   <strong>Music first. Practical tools when the workflow needs them.</strong><br />
@@ -48,4 +48,4 @@ Security matters because local automation touches real accounts, permissions, an
 
 ## Music
 
-Music is the center. I release primarily as DJ Jetski, with Steven Maff as a second artist lane, and I have worked with Ableton since the early Live era.
+Music is the center. I release as DJ Jetski and have worked with Ableton since the early Live era.
