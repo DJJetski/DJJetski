@@ -1,22 +1,47 @@
-<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Steven Zeitter / DJ Jetski</title>
-  <desc id="desc">Profile header for music systems, macOS automation, and Codex tooling.</desc>
-  <rect width="1200" height="360" rx="28" fill="#0B0F14"/>
-  <rect x="1" y="1" width="1198" height="358" rx="27" stroke="#253041" stroke-width="2"/>
-  <path d="M0 278C165 224 292 244 410 280C548 322 662 326 800 272C930 222 1046 207 1200 237V360H0V278Z" fill="#102033"/>
-  <path d="M0 298C170 255 305 267 425 302C545 337 684 342 820 298C955 255 1075 244 1200 260V360H0V298Z" fill="#16364B"/>
-  <path d="M804 72L866 108L866 180L804 216L742 180L742 108L804 72Z" stroke="#4FB7A5" stroke-width="4"/>
-  <path d="M884 118L940 150L940 214L884 246L828 214L828 150L884 118Z" stroke="#F0B45B" stroke-width="4"/>
-  <circle cx="1020" cy="92" r="46" stroke="#6E8AFB" stroke-width="4"/>
-  <text x="72" y="102" fill="#A8B3C7" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="22" letter-spacing="4">STEVEN ZEITTER / DJ JETSKI</text>
-  <text x="72" y="168" fill="#F6F8FB" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="46" font-weight="700">Music systems, macOS automation,</text>
-  <text x="72" y="222" fill="#F6F8FB" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="46" font-weight="700">and Codex tooling.</text>
-  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" font-weight="600">
-    <rect x="72" y="266" width="198" height="42" rx="21" fill="#172331" stroke="#2C3A4D"/>
-    <text x="96" y="293" fill="#D7DEE9">Ableton + Max</text>
-    <rect x="292" y="266" width="210" height="42" rx="21" fill="#172331" stroke="#2C3A4D"/>
-    <text x="316" y="293" fill="#D7DEE9">Codex reliability</text>
-    <rect x="524" y="266" width="260" height="42" rx="21" fill="#172331" stroke="#2C3A4D"/>
-    <text x="548" y="293" fill="#D7DEE9">Creative dev workflows</text>
+  <desc id="desc">A symmetric profile header for Ableton, Max for Live, macOS automation, and Codex tooling.</desc>
+
+  <defs>
+    <path id="signal-left" d="M88 176C122 176 124 126 154 126C184 126 186 246 216 246C246 246 248 154 278 154C308 154 310 216 340 216C370 216 372 176 406 176" />
+    <path id="fine-left" d="M104 88H224M104 332H224M976 88H1096M976 332H1096" />
+  </defs>
+
+  <rect width="1200" height="420" rx="34" fill="#090D10" />
+  <rect x="1" y="1" width="1198" height="418" rx="33" stroke="#2A3440" stroke-width="2" />
+
+  <g opacity="0.34" stroke="#23303A" stroke-width="1">
+    <path d="M120 46V374M240 46V374M360 46V374M480 46V374M600 46V374M720 46V374M840 46V374M960 46V374M1080 46V374" />
+    <path d="M72 90H1128M72 150H1128M72 210H1128M72 270H1128M72 330H1128" />
+  </g>
+
+  <path d="M74 348C196 304 314 306 430 348C540 388 660 388 770 348C886 306 1004 304 1126 348V386H74V348Z" fill="#101A1D" />
+  <path d="M74 368C210 330 322 334 440 366C548 396 652 396 760 366C878 334 990 330 1126 368V386H74V368Z" fill="#162224" />
+
+  <use href="#fine-left" stroke="#F6C766" stroke-width="2" stroke-linecap="round" opacity="0.75" />
+  <use href="#signal-left" stroke="#75F4D4" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity="0.95" />
+  <use href="#signal-left" transform="translate(1200 0) scale(-1 1)" stroke="#FF5C8A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity="0.95" />
+
+  <g transform="translate(600 174)">
+    <circle r="88" fill="#0D1518" stroke="#2E3B45" stroke-width="2" />
+    <circle r="58" stroke="#75F4D4" stroke-width="3" opacity="0.95" />
+    <path d="M0 -76L66 0L0 76L-66 0Z" stroke="#F6C766" stroke-width="3" opacity="0.88" />
+    <path d="M-30 0H30M0 -30V30" stroke="#DDE8EE" stroke-width="3" stroke-linecap="round" opacity="0.9" />
+    <circle r="8" fill="#FF5C8A" />
+  </g>
+
+  <text x="600" y="72" text-anchor="middle" fill="#9BAAB5" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="20" font-weight="700">STEVEN ZEITTER / DJ JETSKI</text>
+  <text x="600" y="260" text-anchor="middle" fill="#F6F8FB" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="44" font-weight="800">Ableton, Max for Live, Codex</text>
+  <text x="600" y="296" text-anchor="middle" fill="#B7C4CC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="22" font-weight="500">music systems, local automation, and security-minded tools</text>
+
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="700">
+    <rect x="160" y="326" width="270" height="46" rx="23" fill="#0E1518" stroke="#31404A" />
+    <text x="295" y="355" text-anchor="middle" fill="#DDE8EE">Live Project Manager</text>
+
+    <rect x="465" y="326" width="270" height="46" rx="23" fill="#0E1518" stroke="#31404A" />
+    <text x="600" y="355" text-anchor="middle" fill="#DDE8EE">Max for Live tools</text>
+
+    <rect x="770" y="326" width="270" height="46" rx="23" fill="#0E1518" stroke="#31404A" />
+    <text x="905" y="355" text-anchor="middle" fill="#DDE8EE">Codex automation</text>
   </g>
 </svg>
